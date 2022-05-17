@@ -1,2 +1,2 @@
-# OnlineBookREviewProject
-RLL Project on Online Book Review both Backend and Frontend.
+# OnlineBookReviewProject
+# RLL Project on Online Book Review both Backend and Frontend.
